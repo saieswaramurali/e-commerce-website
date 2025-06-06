@@ -1,6 +1,4 @@
-export const createUser = (req, res) => {
-    res.send('user created') ; 
-}
+import User from "../models/user.model.js";
 
 export const getAllUsers = (req, res) => {
     res.send('got all users') ; 

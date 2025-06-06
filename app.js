@@ -41,4 +41,4 @@ export default app ;
 // work-flow
 // change the database's cluster to a new organised one for the e-com
 // implement the middleware 
-//complete the product API -> orders API -> USER API -> authentication API. 
+//complete the product API -> authentication API ->  USER API -> orders API ->
